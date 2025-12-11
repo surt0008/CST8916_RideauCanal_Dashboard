@@ -198,3 +198,6 @@ https://<your-app-name>.azurewebsites.net
 ## Conclusion
 
 This web dashboard forms the final and most visible component of the Rideau Canal Monitoring System. It integrates sensor data, Azure IoT Hub, Stream Analytics, Cosmos DB, and cloud deployment into a real-time monitoring interface that is both user-friendly and visually clear. The dashboard demonstrates technical integration across multiple Azure services while providing a practical solution for monitoring canal ice safety.
+
+#  AI Tools Disclosure
+I used ChatGPT only for help with wording in the documentation, general coding guidance, and small debugging tips. All the sensor simulator coding, Azure setup, testing, and actual implementation were done entirely by me.
